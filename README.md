@@ -1,2 +1,2 @@
 # test
-bloss yum mit git uben
+bloss zum mit git uben
