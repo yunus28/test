@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rennbahn
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rennbahn\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=streckenlaenge
+comment1.target=Rennbahn(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rennbahn\r\n\ @param\ streckenlaenge\ in\ meter\r\n
+comment2.params=auto
+comment2.target=void\ entferne(Rennauto)
+comment3.params=
+comment3.target=Rennauto\ liefereSieger()
+comment4.params=
+comment4.target=void\ simuliereZeitabschnitt()
+comment5.params=
+comment5.target=void\ rennenDurchfuehren()
+comment6.params=auto
+comment6.target=boolean\ setzeAufSpur(Rennauto)
+numComments=7

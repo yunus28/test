@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rennauto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rennauto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ typ\ maxV
+comment1.target=Rennauto(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ \r\n\ @param\ maximale\ Geschwindigkeit\ in\ kmh\r\n\ \r\n
+comment2.params=name
+comment2.target=Rennauto(java.lang.String)
+comment3.params=
+comment3.target=double\ fahre()
+comment3.text=\r\n\ lasst\ auto\ eine\ sekunde\ fahren\r\n\r\n\ @return\ gesamte\ strecke\r\n
+comment4.params=
+comment4.target=double\ gibStrecke()
+numComments=5
